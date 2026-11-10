@@ -1,4 +1,5 @@
-# Fire Fighting Robot
+
+#  Fire Fighting Robot
 
 ##  Project Overview
 
@@ -49,8 +50,6 @@ The flame sensors continuously monitor the surroundings for fire. When fire is d
 - Hazardous environments
 - Emergency response applications
 
-## 🏁 Conclusion
-
-The Fire Fighting Robot demonstrates how robotics, sensors, and automation can be combined to develop a useful fire safety system. It helps reduce direct human involvement in dangerous fire situations and provides a practical application of embedded systems.
+##  Conclusion
 
 The Fire Fighting Robot demonstrates how robotics, sensors, and automation can be combined to develop a useful fire safety system. It helps reduce direct human involvement in dangerous fire situations and provides a practical application of embedded systems.
